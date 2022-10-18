@@ -1,2 +1,7 @@
-flask
+#numpy
+Flask
 gunicorn
+#sklearn
+#pandas
+#PyYAML
+#-e .
