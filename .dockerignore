@@ -1,4 +1,8 @@
-venv/
+env/
 .git
 .gitignore
 .vscode
+/test
+/Brain_Stroke_Predictor.egg-info
+/build
+/dist

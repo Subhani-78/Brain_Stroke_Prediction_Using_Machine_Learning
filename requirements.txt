@@ -1,7 +1,7 @@
-#numpy
+numpy
 Flask
 gunicorn
-#sklearn
-#pandas
-#PyYAML
-#-e .
+sklearn
+pandas
+PyYAML
+-e .

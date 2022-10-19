@@ -130,3 +130,7 @@ dmypy.json
 
 # vscode
 .vscode
+/test
+/Brain_Stroke_Predictor.egg-info
+/build
+/dist
